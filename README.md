@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
 
   > Running mobile project
   ```bash
-    # Accesing mobile project
+    # Accessing mobile project
     cd contador_de_pessoas
     
     # Running mobile project
