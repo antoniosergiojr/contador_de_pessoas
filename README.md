@@ -1,10 +1,6 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Project developed in Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +10,32 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 🚀 Index
+- ⚙ [Technologies](#-technologies)
+- 💻 [How to run](#-how-to-run)
+
+---
+
+## ⚙ Technologies
+    - Flutter
+    - Dart
+---
+
+## 💻 How to run
+
+  > Cloning the repository
+  ```bash
+    # Cloning repository
+    git clone https://github.com/antoniosergiojr/contador_de_pessoas.git
+  ```
+
+  > Running mobile project
+  ```bash
+    # Accesing mobile project
+    cd contador_de_pessoas
+    
+    # Running mobile project
+    flutter run
+  ```
+---
