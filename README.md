@@ -2,18 +2,18 @@
 
 Project developed in Flutter to help count customers and the flow of people in malls, stores and streets.
 
-## 🚀 Index
-- ⚙ [Technologies](#-technologies)
-- 💻 [How to run](#-how-to-run)
+## 📌 Index
+- 💻 [Technologies](#-technologies)
+- 🚀 [How to run](#-how-to-run)
 
 ---
 
-## ⚙ Technologies
+## 💻 Technologies
     - Flutter
     - Dart
 ---
 
-## 💻 How to run
+## 🚀 How to run
 
   > Cloning the repository
   ```bash
